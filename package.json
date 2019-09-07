@@ -1,0 +1,17 @@
+{
+  "name": "googlesearchwithpuppeteer",
+  "version": "1.0.0",
+  "description": "Search Google with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "TheDeveloper",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^1.19.0"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
